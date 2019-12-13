@@ -1,0 +1,10 @@
+.mycard{
+    width:600px;
+    margin-bottom:25px;
+}
+
+.card-body img {
+    width: 600px;
+    height: 400px;
+    object-fit: cover;
+}
